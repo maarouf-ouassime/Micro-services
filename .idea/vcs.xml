@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Micro2/enset-billing-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Micro2/enset-eureka-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Micro2/enset-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Micro2/openlab-customer-service" vcs="Git" />
+  </component>
+</project>
