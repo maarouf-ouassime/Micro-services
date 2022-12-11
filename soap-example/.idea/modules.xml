@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-soap/client-soap.iml" filepath="$PROJECT_DIR$/client-soap/client-soap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/soap-example.iml" filepath="$PROJECT_DIR$/.idea/soap-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-service-soap/web-service-soap.iml" filepath="$PROJECT_DIR$/web-service-soap/web-service-soap.iml" />
+    </modules>
+  </component>
+</project>
