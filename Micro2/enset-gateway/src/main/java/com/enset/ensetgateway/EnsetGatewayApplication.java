@@ -19,7 +19,8 @@ public class EnsetGatewayApplication {
             ReactiveDiscoveryClient rdc,
             DiscoveryLocatorProperties properties
     ){
-        return new DiscoveryClientRouteDefinitionLocator(rdc,properties);
+        return new
+                DiscoveryClientRouteDefinitionLocator(rdc,properties);
     }
 
 }
